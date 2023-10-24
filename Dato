@@ -1,0 +1,30 @@
+
+package cosas;
+
+public class Dato {
+    private String destino;
+    private boolean discapacidad;
+
+    public Dato() {
+        this.destino = "";
+        this.discapacidad = false;
+    }
+
+    public String getDestino() {
+        return destino;
+    }
+
+    public void setDestino(String destino) {
+        this.destino = destino;
+    }
+
+    public boolean isDiscapacidad() {
+        return discapacidad;
+    }
+
+    public void setDiscapacidad(boolean discapacidad) {
+        this.discapacidad = discapacidad;
+    }
+    
+
+}
