@@ -27,25 +27,25 @@ public class Pila {
     
     /*
     //Método para apilar
-    public void apilar(String carta) {
-        Nodo nuevoNodo = new Nodo(carta); //Representa la carta que se va a apilar 
+    public void apilar(String atributo) {
+        Nodo nuevoNodo = new Nodo(atributo); //Representa atributo que se va a apilar 
         
-        if (estaVacia()) { //Verificar si la pila del jugador está vacía
+        if (estaVacia()) { //Verificar si la pila está vacía
             cima = nuevoNodo; //Si la pila está vacía, el nuevo nodo se convierte en la cima de la pila
-        } else { //Si la pila no está vacía, entonces significa que ya hay cartas apiladas
+        } else { //Si la pila no está vacía, entonces significa que ya hay atributos apiladas
             nuevoNodo.setSiguiente(cima); //El nuevo nodo se coloca encima del nodo que estaba en la cima
             cima = nuevoNodo; //El nuevo nodo se convierte en la nueva cima de la pila
         }//Fin del if/else
     }//Fin del método
 
-    //Método para desapilar una carta de la cima de la pila
+    //Método para desapilar atributo de la cima de la pila
     public String desapilar() {
-        if (estaVacia()) { //Verificar si la pila del jugador está vacía
-            return null; //Retorna vacío, si la pila está vacía al no haber cartas para desapilar
+        if (estaVacia()) { //Verificar si la pila está vacía
+            return null; //Retorna vacío, si la pila está vacía al no haber atributos para desapilar
         }//Fin del if
-        String carta = cima.getCarta(); //Si la pila no está vacía, se obtiene la carta en la cima de la pila actual
-        cima = cima.getSiguiente(); //Se retira la carta superior de la pila, dejando la siguiente carta como nueva cima
-        return carta; //Se retorna la carta que se ha retirado de la cima
+        String atributo = cima.getAtributo(); //Si la pila no está vacía, se obtiene atributo en la cima de la pila actual
+        cima = cima.getSiguiente(); //Se retira atributo superior de la pila, dejando siguiente atributo como nueva cima
+        return atributo; //Se retorna atributo que se ha retirado de la cima
     }//Fin del método
     */
     
