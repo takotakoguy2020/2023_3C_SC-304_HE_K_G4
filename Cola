@@ -37,9 +37,9 @@ public class Cola {
     }//Fin del método
     
     /*
-    //Método para encolar una carta al final de la cola
-    public void encolar(String carta) {
-        Nodo nuevoNodo = new Nodo(carta); //Representa la carta que se va a encolar
+    //Método para encolar atributo al final de la cola
+    public void encolar(String atributo) {
+        Nodo nuevoNodo = new Nodo(carta); //Representa atributo que se va a encolar
         
         if (estaVacia()) { //Verificar si la cola está vacía
             frente = nuevoNodo; //Si la cola está vacía, el nuevo nodo se convierte en el frente de la cola
@@ -50,14 +50,14 @@ public class Cola {
         }//Fin del if/else
     }//Fin del método
 
-    //Método para desencolar una carta del frente de la cola
+    //Método para desencolar atributo del frente de la cola
     public String desencolar() {
         if (estaVacia()) { //Verificar si la cola está vacía
-            return null; //Retorna vacío, si la cola está vacía al no haber cartas para desencolar
+            return null; //Retorna vacío, si la cola está vacía al no haber atributo para desencolar
         }//Fin del if
-        String carta = frente.getCarta(); //Si la cola no está vacía, se obtiene la carta en el frente de la cola
-        frente = frente.getSiguiente(); //Se retira la carta en el frente de la cola, dejando la siguiente carta como nueva frente
-        return carta; //Se retorna la carta que se ha retirado del frente de la cola
+        String atributo = frente.getAtributo(); //Si la cola no está vacía, se obtiene atributo en el frente de la cola
+        frente = frente.getSiguiente(); //Se retira atributo en el frente de la cola, dejando  siguiente atributo como nueva frente
+        return atributo; //Se retorna atributo que se ha retirado del frente de la cola
     }//Fin del método
     */
     
