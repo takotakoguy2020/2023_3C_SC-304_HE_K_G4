@@ -10,7 +10,7 @@ public class MenuPrincipal {
         while (true) {
             String opcion = JOptionPane.showInputDialog("""
                 Seleccione una opción:
-                1. Módulo de configuración
+                //1. Módulo de configuración
                 2. Módulo de administración de los pasajeros
                 3. Módulo de visualización de estaciones y vagón
                 4. Salir del menú principal""");
