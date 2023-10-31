@@ -4,7 +4,7 @@
 - Alex Monge Arias
 - Kevin Emmanuel Chavarría Vargas
 - Jimena Flores Carmona
-- ---
+- Kevin Soto Bolaños
 
 ## Menú de Usuario:
 
