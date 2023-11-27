@@ -22,4 +22,4 @@
 
 ## Diagrama de Clases
 
-![Diagrama de Clases](https://github.com/takotakoguy2020/2023_3C_SC-304_HE_K_G4/blob/main/diagrama%20de%20clases.png)
+![Diagrama de Clases](Nuevo_Avance_2/Diagrama_de_clases_Nuevo_Avance_2.jpg)
