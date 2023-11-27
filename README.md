@@ -1,6 +1,6 @@
 # Proyecto de Estructuras de Datos; Grupo 4
 
-## Participantes:
+## Participantes: 
 - Alex Monge Arias
 - Kevin Emmanuel Chavarría Vargas
 - Jimena Flores Carmona
