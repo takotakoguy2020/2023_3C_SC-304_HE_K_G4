@@ -6,7 +6,7 @@
 - Jimena Flores Carmona
 - Kevin Soto Bolaños
 
-##==============================================================================================================================================
+##==========================================================================================
 
 ## Menú de Usuario:
 1. **Cargar Pasajeros:**
@@ -21,7 +21,7 @@
    - *Descripción:* Inicia el hilo del tren, recorriendo todas las estaciones y conduciendo a los pasajeros a su destino.
    - *Uso:* Es la carga útil fundamental del programa y el objetivo de su creación.
 
-##==============================================================================================================================================
+##==========================================================================================
 
 ## Diagrama de Clases
 ![Diagrama de Clases](Nuevo_Avance_2/Diagrama_de_clases_Nuevo_Avance_2.jpg)
