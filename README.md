@@ -1,4 +1,4 @@
-# Grupo número 4
+# Proyecto de Estructuras de Datos; Grupo 4
 
 ## Participantes:
 - Alex Monge Arias
@@ -6,8 +6,9 @@
 - Jimena Flores Carmona
 - Kevin Soto Bolaños
 
-## Menú de Usuario:
+##==============================================================================================================================================
 
+## Menú de Usuario:
 1. **Cargar Pasajeros:**
    - *Descripción:* Este método crea un archivo .txt en donde el usuario podrá digitar la información de varios pasajeros a la vez.
    - *Uso:* El programa leerá el archivo txt y llenará los espacios con la información proporcionada por el usuario.
@@ -20,6 +21,7 @@
    - *Descripción:* Inicia el hilo del tren, recorriendo todas las estaciones y conduciendo a los pasajeros a su destino.
    - *Uso:* Es la carga útil fundamental del programa y el objetivo de su creación.
 
-## Diagrama de Clases
+##==============================================================================================================================================
 
+## Diagrama de Clases
 ![Diagrama de Clases](Nuevo_Avance_2/Diagrama_de_clases_Nuevo_Avance_2.jpg)
