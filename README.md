@@ -24,4 +24,4 @@
 ##==========================================================================================
 
 ## Diagrama de Clases
-![Diagrama de clases](Proyecto%20Final/Diagrama%20de%20clases%20Final.png) 
+![Diagrama de clases](Proyecto%20Final/Diagrama%20Final%20Final.png) 
