@@ -24,4 +24,4 @@
 ##==========================================================================================
 
 ## Diagrama de Clases
-![Diagrama de Clases](Nuevo_Avance_2/Diagrama_de_clases_Nuevo_Avance_2.jpg)
+!Proyecto Final/Diagrama de clases.png)
